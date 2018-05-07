@@ -9,6 +9,7 @@ cache: yarn
 language: node_js
 node_js:
   - "6.0"
+  - "10"
 notifications:
   slack: cards-corp:NJt6wNBjKHUWl15RMjvGRbcA
 script:
